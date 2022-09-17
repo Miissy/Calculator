@@ -1,0 +1,25 @@
+button {
+    min-width: 50px;
+    min-height: 40px;
+}
+
+.all-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+}
+
+#display {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    margin: 20px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
